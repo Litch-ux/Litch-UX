@@ -8,19 +8,6 @@
 - 🏆 CompTIA Security+ Certified (SY0-701)
 - 🎯 Passionate about threat detection, incident response, and building secure systems
 
-<h2>💻 Cybersecurity Projects:</h2>
-
-- <b>Home Cybersecurity Lab</b>
-  - [VirtualBox SOC Environment](https://github.com/Litch-ux/home-cybersecurity-lab) - Penetration testing, incident response simulations, and SIEM monitoring using Kali Linux, Windows Server, Active Directory, and Wazuh SIEM
-  
-- <b>Network Security</b>
-  - [Pi-hole Network Security Lab](https://github.com/Litch-ux/pihole-security-lab) - DNS filtering and network monitoring using Raspberry Pi and Linux configurations
-  
-- <b>DoD Cyber Sentinel Skills Challenge</b>
-  - Invite-only competitive cybersecurity challenge
-  - Simulated threat detection, incident response, and mitigation scenarios
-  - Hands-on experience with Cisco Meraki, Windows Server, and infrastructure security
-
 <h2>🛠️ Technical Skills:</h2>
 
 **Security & Monitoring:**
